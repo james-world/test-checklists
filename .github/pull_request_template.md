@@ -1,7 +1,6 @@
 # PR Checklist
 
-- [ ] Logging standard has been followed
+To be completed in the PR review.
 
-# Notes for Reviewers
+- [ ] [Logging standards](https://imburse.atlassian.net/wiki/spaces/~928418141/pages/592412673/Application+Level+Logging+Policy) have been followed.
 
-Add your notes here.
