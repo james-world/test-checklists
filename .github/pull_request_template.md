@@ -2,5 +2,5 @@
 
 To be completed in the PR review.
 
-- [ ] [Logging standards](https://imburse.atlassian.net/wiki/spaces/~928418141/pages/592412673/Application+Level+Logging+Policy) have been followed.
+- [ ] [Logging standards](https://imburse.atlassian.net/wiki/spaces/DEV/pages/592281609/Observability+Standards){:target="_blank"} have been followed.
 
